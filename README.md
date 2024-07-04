@@ -7,9 +7,10 @@ Web developer with 5 years of experience, specialized in backend, currently work
   - ⚡ Harry Potter.
 
     
-- Activities I do in my free time:
+- Leisure activities:
   - 🐛 Develop a full stack application.
   - 🎮 Play video games.
+  - 👪 Spend quality time with my family.
 
 ## My Skills Include
 <h4> Languages </h4>
