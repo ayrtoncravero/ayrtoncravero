@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=ayrtoncravero)
-
 ### Hi there 👋 I'm Ayrton Cravero,
 
 Web developer with 5 years of experience, specialized in backend, currently working as an SSR Software Engineer. I am proactive, I have teamwork skills, task management and decision making, open to constructive criticism.
